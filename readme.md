@@ -1,7 +1,7 @@
 # 🏅 Nobel Prize Analysis (1901–2023)  
 📊 **Advanced Python EDA | Feature Engineering | Visualization | Real-World Dataset**
 
-<img src="images/Nobel_Prize.png" alt="Nobel Prize Banner" style="width:50%;"/>
+<img src="images/Nobel_Prize.png" alt="Nobel Prize Banner" style="width:25%;"/>
 
 ---
 
