@@ -49,9 +49,6 @@ This project provides a deep exploration of the **Nobel Prize winners dataset** 
 ### 👩‍🔬 Gender Trends Over Time
 <img src="images/gender_trend_over_time.png" width="600"/>
 
-### ☁️ Most Common Words in Motivations
-<img src="images/wordcloud_motivation.png" width="600"/>
-
 ---
 
 ## ❓ Business Questions Answered
