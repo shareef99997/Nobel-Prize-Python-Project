@@ -1,7 +1,7 @@
 # 🏅 Nobel Prize Analysis (1901–2023)  
 📊 **Advanced Python EDA | Feature Engineering | Visualization | Real-World Dataset**
 
-<img src="images/Nobel_Prize.png" alt="Nobel Prize Banner" style="width:100%;"/>
+<img src="images/Nobel_Prize.png" alt="Nobel Prize Banner" style="width:50%;"/>
 
 ---
 
@@ -74,7 +74,7 @@ This project provides a deep exploration of the **Nobel Prize winners dataset** 
 **Shareef Huzaifa**  
 Aspiring Data Analyst passionate about storytelling through data and delivering insights from real-world datasets.
 
-- 🔗 Website: [ShareefDev.com](https://www.ShareefDev.com)  
+- 🔗 Website: [shareefdev.com](https://www.shareefdev.com)  
 - 🔗 GitHub: [github.com/shareef99997](https://github.com/shareef99997)  
 - 🔗 LinkedIn: [linkedin.com/in/shareef-ali](https://linkedin.com/in/shareef-ali)
 
